@@ -1,0 +1,1 @@
+My 14th assignment! Thankfully something I was already using for two of my recent projects to clean up the main file. It also makes it much more convenient because you can port those functions to other projects, which I've started doing. I'll likely do that with the string/iterable manipulation functions I made here.
